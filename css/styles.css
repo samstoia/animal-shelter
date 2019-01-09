@@ -1,0 +1,27 @@
+.indeximage {
+  height: 500px;
+  width: 500px;
+}
+.sidebar {
+  width: 40%;
+  float: right;
+  border: 6px solid green;
+  padding: 6px;
+  font-size: 30px;
+}
+body {
+  background-color: skyblue;
+}
+.column {
+  float: left;
+  width: 25%;
+}
+.column img {
+  height: 300px;
+  width: 210px;
+}
+.name {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: sans-serif;
+}
